@@ -8,7 +8,7 @@
 	
 	sudo apt update
 	
-	apache2: sudo apt install apache2
+	sudo apt install apache2
 	
 	sudo apt install php8.1
 	
