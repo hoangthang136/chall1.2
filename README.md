@@ -19,6 +19,7 @@
 	CREATE USER 'appuser'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';
 	
 	GRANT ALL PRIVILEGES ON *.* TO 'appuser'@'localhost' WITH GRANT OPTION;
+	
 	exit;
 	
 	cd Downloads
@@ -82,7 +83,9 @@
 	exit;
 
 
-<p>Sau khi cấu hình sau ta chạy câu lệnh: php artisan serve<p>
+<p>Sau khi cấu hình xong chạy câu lệnh dưới với tài khoản root:</p> 
+
+	php artisan serve
 
 
 <p>Đường dẫn '/' là để truy cập cho Student và Teacher.</p>
