@@ -4,7 +4,8 @@
 <hr></hr>
 
 
-<h3>lệnh để cài đặt lên ubuntu</h3>
+<h3>Lệnh để cài đặt lên ubuntu</h3>
+	
 	sudo apt update
 	
 	apache2: sudo apt install apache2
@@ -81,11 +82,11 @@
 	exit;
 
 
-<p>sau khi cấu hình sau ta chạy câu lệnh: php artisan serve<p>
+<p>Sau khi cấu hình sau ta chạy câu lệnh: php artisan serve<p>
 
 
-<p>đường dẫn '/' là để truy cập cho Student và Teacher.</p>
+<p>Đường dẫn '/' là để truy cập cho Student và Teacher.</p>
 
-<p>đường dẫn '/admin' là để truy cập admin</p>
+<p>Đường dẫn '/admin' là để truy cập admin</p>
 
-<p>Sau khi chạy được lên giao diện chuyển đến '/admin' và đăng nhập với:</br> username: 'hoangthang'</br> password: '12345678'</br> Sau đó bắt đầu tạo các tài khoản cho Studen và Teacher và khám phá web.</p>
+<p>Sau khi chạy được lên giao diện chuyển đến '/admin' và đăng nhập với:</br> username: hoangthang</br> password: 12345678</br> Sau đó bắt đầu tạo các tài khoản cho Studen và Teacher và khám phá web.</p>
